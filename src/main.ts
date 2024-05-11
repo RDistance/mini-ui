@@ -4,3 +4,4 @@ import App from './App.vue'
 import SButton from 'shindou-ui';
 
 createApp(App).use(SButton).mount('#app')
+
